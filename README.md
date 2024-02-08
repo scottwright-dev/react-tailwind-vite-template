@@ -1,6 +1,6 @@
 # React-Tailwind-Vite Project Template
 
-A template for building React apps with Tailwind & Vite. Rre-configured with Prettier and ESLint.
+A template for building React apps with Tailwind & Vite. Pre-configured with Prettier and ESLint.
 
 ## Features
 
